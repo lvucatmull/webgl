@@ -1,0 +1,2 @@
+!function(){var e=document.querySelector("#glcanvas").getContext("webgl");null!==e?(e.clearColor(0,0,0,1),e.clear(e.COLOR_BUFFER_BIT)):alert("Unable to initialize WebGL. Your browser or machine may not support it.")}();
+//# sourceMappingURL=bundle.js.map
